@@ -1,4 +1,4 @@
-## This repo has some test cases of python data analysis tools  
+## This repo has test cases of python data analysis tools  
 
 ### Tools
 1. [*pandas*](http://pandas.pydata.org/pandas-docs/stable/)
